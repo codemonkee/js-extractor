@@ -1,9 +1,10 @@
 <?php
 /*
- * Copyright 2008-2010 Jack Sleight <http://jacksleight.com/>
+ * Copyright (c) 2010, Jack Sleight <http://jacksleight.com/>
  * All rights reserved.
  *
- * Any redistribution or reproduction of part or all of the contents in any form is prohibited.
+ * This source file is subject to the new BSD license that is bundled with this package in the file LICENSE.txt.
+ * It is also available at this URL: http://www.opensource.org/licenses/bsd-license.php
  */
 
 class JS_DOM_Document extends DOMDocument
